@@ -1,4 +1,3 @@
-**Description**
 It is an app built in react where the search for a particular image can be done. 
 
 # Getting Started with Create React App
